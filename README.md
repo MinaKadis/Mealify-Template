@@ -1,2 +1,2 @@
 # Mealify-Route
-Assigenment 5 / RouteAcademy
+Assignment 5 / RouteAcademy
