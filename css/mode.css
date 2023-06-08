@@ -33,12 +33,15 @@ body:has(#mode--btn:checked) .light--mode {
 body:has(#mode--btn:checked) #chefs,
 body:has(#mode--btn:checked) #contact {
   background-color: var(--light-bg-white);
-  color: var(--light-main-color);
+  color: #fff;
 }
 
 body:has(#mode--btn:checked) #chefs .showcase p,
 body:has(#mode--btn:checked).contact--container {
   color: #fff !important;
+}
+body:has(#mode--btn:checked) p {
+  color: #fff;
 }
 
 body:has(#mode--btn:checked) #chefs .chefs--gallery--item img {
