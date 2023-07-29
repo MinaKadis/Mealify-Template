@@ -26,7 +26,6 @@ body:has(#mode--btn:checked) .light--mode {
   --light-highlight: #c17e1f;
   --light-main-color: #fff;
   --light-sec-color: #7f7f90;
-
   --dark-bg-dark: #000000;
 }
 
