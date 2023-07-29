@@ -1,2 +1,22 @@
-# Mealify-Route
-Assignment 5 / RouteAcademy
+# Mealify-Template
+Mealify is a stunning responsive webpage that supports dark mode. This template showcases the implementation of HTML5 and CSS3, utilizing HTML5 semantic tags, CSS3 Flexbox, vendor prefixes, CSS3 pseudo-classes, CSS3 pseudo-elements, media queries, CSS3 variables, CSS3 transitions, and CSS3 animations.
+
+# Video:
+
+
+
+
+
+
+https://github.com/MinaKadis/Mealify-Template/assets/18472725/f7086c04-30e1-4e82-bc5c-47ccb7e535ee
+
+
+
+
+
+
+
+Thank you for your time and feel free to share your feedback and opinions about the template.
+
+My LinkedIn account: https://www.linkedin.com/in/minakadis
+My Email address: minakadiswadie@gmail.com
